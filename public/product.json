@@ -1,0 +1,45 @@
+[    
+    {
+        "id": 1,
+        "brand": "OnePlus",
+        "title": "126 cm Ultra HD 4K LED Smart Android TV ",
+        "price": 39999,
+        "image": "https://rukminim1.flixcart.com/image/416/416/kpmy8i80/television/q/u/v/u-series-50-u1s-50uc1a00-oneplus-original-imag3tpydevtfnd9.jpeg?q=70"
+    },
+    {
+        "id": 2,
+        "brand": "Afast",
+        "title": "Pendant Wall Lamp",
+        "price": 890,
+        "image": "https://rukminim1.flixcart.com/image/416/416/jzn0tjk0/wall-lamp/r/b/6/ma189-afast-original-imafjavuqymqrfhk.jpeg?q=70"
+    },
+    {
+        "id": 3,
+        "brand": "Calvin Klein",
+        "title": "Small red cabin Luggage",
+        "price": 3599,
+        "image": "https://rukminim1.flixcart.com/image/800/960/k6s82vk0/suitcase/e/f/4/down-to-fly-lh818df9l50-check-in-luggage-calvin-klein-28-original-imafp5euzfhrtabk.jpeg?q=50"
+    },
+    {
+        "id": 4,
+        "brand": "Samsung",
+        "title": "Galaxy S21 Ultra (Phantom Black, 256 GB)",
+        "price": 105999,
+        "image": "https://rukminim1.flixcart.com/image/416/416/kjvrdzk0/mobile/t/x/3/samsung-galaxy-s21-ultra-sm-g998bzkginu-original-imafzcm2vacyygnb.jpeg?q=70"
+    },
+    
+    {
+        "id": 5,
+        "brand": "Flying Machine",
+        "title": "Slim-fit men black jeans",
+        "price": 1029,
+        "image": "https://rukminim1.flixcart.com/image/800/960/k7ksvww0/jean/y/f/t/32-fmjnf8517-flying-machine-original-imafpnwr5q2frayy.jpeg?q=50"
+    },
+    {
+        "id": 6,
+        "brand": "Zebronics",
+        "title": "PEBBLE NEW Laptop/Desktop Speaker",
+        "price": 1499,
+        "image": "https://rukminim1.flixcart.com/image/416/416/k5vcya80pkrrdj/speaker/laptop-desktop-speaker/z/w/u/zebronics-zeb-pebble-new-original-imaexrahvmhsxn35.jpeg?q=70"
+    }
+]

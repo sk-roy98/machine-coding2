@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+}
+.card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    width: 15rem;
+    height:22rem;
+    margin:2rem;
+    flex-wrap: wrap;
+    border: #000 solid;
+}
+.card-image{
+    width: 15rem;
+    height: 14rem;
+    object-fit: contain;
+}
+.card-content{
+    margin:0.rem;
+    min-height:8rem;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;   
+}
+.card-container>*:third-child {
+    justify-self: flex-end;
+}
+.price-add{
+    width:15rem;
+    display:flex;;
+    align-items: center;
+    justify-content:space-between ;  
+    margin-top: 0.5rem;
+}
+.price-add button{
+    width:4rem;
+    height:1.8rem;
+    padding:0.5rem 1rem;
+
+}
